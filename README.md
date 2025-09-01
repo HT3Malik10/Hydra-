@@ -25,3 +25,5 @@ pip install colorama
 git clone https://github.com/iamunixtz/Termux-Hydra.git
 cd Termux-Hydra
 python setup.py
+
+Copy 👆 and paste in Termux.
